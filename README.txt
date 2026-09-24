@@ -24,8 +24,8 @@ was used in the Dragon Warrior games. Older localized names take priority over m
 ones (ex. Tessie and Tipper are Nina and Paulo, like they were in Torneko Last Hope)
 
 BOTH PATCHES ARE DIFFERENTIATED BY THE FIRST TWO LETTERS;
-DW = Dragon Warrior
 DQ = Dragon Quest
+DW = Dragon Warrior
 
 BOTH CAN BE PATCHED TO EITHER AN UNEDITED, UNHEADERED JAPANESE ROM - CRC32: 654E1BE4
 OR AN UNHEADERED ROM WITH THE MAGIC DESTINY 0.99 PATCH - CRC32: 96064895
