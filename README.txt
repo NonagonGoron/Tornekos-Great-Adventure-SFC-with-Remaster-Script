@@ -69,6 +69,8 @@ I've ironed out so many bugs regarding it. That feature should be bug free as of
 Page 3 is for special symbols that people wouldn't use, but it can't hurt to have
 it there for people to be creative.
 
+-Also was able to expand the village name character limit to 6 from just 4. (I wanted 7, but that would cause a lot of issues) 
+
 -After 1-to-1 porting the Script, reformatted strings, adjusted window sizes, 
 created a contingency for sentences that go above 4 lines of text. 
 
