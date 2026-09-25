@@ -12,7 +12,7 @@ release.)
 
 
                           //////////PATCHING INSTRUCTIONS//////////
-There are two versions of the patch. Dragon Quest, and Dragon Warrior.
+There are two versions of the patch: Dragon Quest, and Dragon Warrior.
 The Dragon Quest patch is standard and most of the notes below apply to it; it uses
 the Remaster's script and terminology, enemy names, item names, characters, etc. and
 also features that signature British English usage Dragon Quest goes for.
