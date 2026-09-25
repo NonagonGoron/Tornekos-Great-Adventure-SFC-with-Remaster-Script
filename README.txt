@@ -35,7 +35,7 @@ OR AN UNHEADERED ROM WITH THE MAGIC DESTINY 0.99 PATCH - CRC32: 96064895
 
 
 
-                                  1.0 Release - 9/24/2026
+                                  Release - 9/24/2026
 
 -Fixed the opening storybook narration that was broken from the Fan Translation. 
 (Updated the text after the Remaster released.)
@@ -43,8 +43,9 @@ OR AN UNHEADERED ROM WITH THE MAGIC DESTINY 0.99 PATCH - CRC32: 96064895
 -Created my own font, with HEAVY inspiration from screenshots and recordings of
 the "unreleased english prototype" build of the game.
 
--Updated Character and Enemy names to match Official Dragon Quest localizations.
+-DQ: Updated Character and Enemy names to match Official Dragon Quest localizations.
 (Updated item names too after the Remaster released.)
+-DW: Updated Character, Item, and Enemy names to match the feeling of Official Dragon Warrior localizations.
 
 -Revised the remaining untranslated bits leftover from the fan translation, 
 like the Title Screen and the Dungeon Floor graphic that shows when entering
