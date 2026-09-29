@@ -11,7 +11,7 @@ release.)
 
 
 
-                          //////////PATCHING INSTRUCTIONS//////////
+                          //////////PATCHING INSTRUCTIONS\\\\\\\\\\
 
 There are two versions of the patch: Dragon Quest, and Dragon Warrior.
 The Dragon Quest patch is standard and most of the notes below apply to it; it uses
@@ -33,7 +33,7 @@ OR AN UNHEADERED ROM WITH THE MAGIC DESTINY 0.99 PATCH - CRC32: 96064895
 
 
 
-				  \\\\\\\CHANGELOG\\\\\\\
+				                  ///////CHANGELOG\\\\\\\
 
 
                                             v1.6
@@ -111,8 +111,8 @@ any graphical issues, overflows, or crappy-looking dialogue boxes.
 Please do not hesistate to report any bugs or glitches you experience, and be
 specific as to which version of the hack you're experiencing it and where.
 
-                      /////////ALL CHANGES, SAVE FOR BUGFIXES ARE COSMETIC/////////
-                           /////////NO GAMEPLAY ELEMENTS WERE CHANGED/////////
+                      /////////ALL CHANGES, SAVE FOR BUGFIXES ARE COSMETIC\\\\\\\\\
+                           /////////NO GAMEPLAY ELEMENTS WERE CHANGED\\\\\\\\\
 
 
 
