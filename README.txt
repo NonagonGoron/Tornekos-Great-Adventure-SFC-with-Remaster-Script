@@ -35,6 +35,8 @@ OR AN UNHEADERED ROM WITH THE MAGIC DESTINY 0.99 PATCH - CRC32: 96064895
 
 				                  ///////CHANGELOG\\\\\\\
 
+                                            v1.7
+-Fixed minor graphics glitch
 
                                             v1.6
 -Corrected 20 "yes/no" prompts appearing before the question text finishes rendering.
