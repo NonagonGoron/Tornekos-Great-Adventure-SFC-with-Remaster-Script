@@ -33,7 +33,7 @@ OR AN UNHEADERED ROM WITH THE MAGIC DESTINY 0.99 PATCH - CRC32: 96064895
 
 
 
-				   ///////CHANGELOG\\\\\\\
+				                   ///////CHANGELOG\\\\\\\
 
                                             v1.8
 -Added pauses to Ending Cutscene's text strings.
