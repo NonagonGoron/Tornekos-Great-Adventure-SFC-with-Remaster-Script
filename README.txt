@@ -33,10 +33,15 @@ OR AN UNHEADERED ROM WITH THE MAGIC DESTINY 0.99 PATCH - CRC32: 96064895
 
 
 
-				                  ///////CHANGELOG\\\\\\\
+				   ///////CHANGELOG\\\\\\\
+
+                                            v1.8
+-Added pauses to Ending Cutscene's text strings.
+-Fixed cut-off credits text.
+-Changed the graphics for "Nene's Bar" to "Nina's" or "Tessie's" depending on patch version.
 
                                             v1.7
--Fixed minor graphics glitch
+-Fixed minor graphics glitches with ending screen and shopkeeper text.
 
                                             v1.6
 -Corrected 20 "yes/no" prompts appearing before the question text finishes rendering.
