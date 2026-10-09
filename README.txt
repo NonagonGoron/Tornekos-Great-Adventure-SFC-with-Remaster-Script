@@ -33,13 +33,24 @@ OR AN UNHEADERED ROM WITH THE MAGIC DESTINY 0.99 PATCH - CRC32: 96064895
 
 
 
-				                   ///////CHANGELOG\\\\\\\
+				   ///////CHANGELOG\\\\\\\
+
+                                            v2.0
+-Fixed a large amount of NPC dialogue not having the correct text display type.
+(This was an issue introduced by the Magic Destiny translation. Many NPC dialogue strings
+would use fast text boxes instead of normal speed with the speech sound)
+-Shortened the menu names for the seed items, a few staves, and unidentified items.
+-Added pagebreaks to many dungeon explanation messages.
+-Added weapon-type-specific verbage when attacking. (Examples: slashed, cleaved, bashed)
+
+                                           "v1.9"
+-Look up the iPhone 9.
 
                                             v1.8
 -Added pauses to Ending Cutscene's text strings.
 -Fixed cut-off credits text.
 -Changed the graphics for "Nene's Bar" to "Nina's" or "Tessie's" depending on patch version.
--Fixed cut-off 'cursed item' message with certain items.
+-Fixed cut-off cursed message with certain items.
 
                                             v1.7
 -Fixed minor graphics glitches with ending screen and shopkeeper text.
