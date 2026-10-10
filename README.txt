@@ -37,6 +37,7 @@ OR AN UNHEADERED ROM WITH THE MAGIC DESTINY 0.99 PATCH - CRC32: 96064895
 
                                             v2.1
 -Removed unnecessary pause after dungeon messages (Don't know why I thought this was a good idea...)
+
                                             v2.0
 -Fixed a large amount of NPC dialogue not having the correct text display type.
 (This was an issue introduced by the Magic Destiny translation. Many NPC dialogue strings
