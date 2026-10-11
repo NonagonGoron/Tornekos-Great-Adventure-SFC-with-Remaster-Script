@@ -35,6 +35,8 @@ OR AN UNHEADERED ROM WITH THE MAGIC DESTINY 0.99 PATCH - CRC32: 96064895
 
 				   ///////CHANGELOG\\\\\\\
 
+                                            v2.2
+-Various dungeon message polish.
                                             v2.1
 -Removed unnecessary pause after dungeon messages (Don't know why I thought this was a good idea...)
 
@@ -132,6 +134,9 @@ any graphical issues, overflows, or crappy-looking dialogue boxes.
 
 Please do not hesistate to report any bugs or glitches you experience, and be
 specific as to which version of the hack you're experiencing it and where.
+
+
+Github Link: https://github.com/NonagonGoron/Tornekos-Great-Adventure-SFC-with-Remaster-Script
 
                       /////////ALL CHANGES, SAVE FOR BUGFIXES ARE COSMETIC\\\\\\\\\
                            /////////NO GAMEPLAY ELEMENTS WERE CHANGED\\\\\\\\\
