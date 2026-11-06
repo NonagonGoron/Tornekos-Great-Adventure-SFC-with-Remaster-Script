@@ -35,8 +35,13 @@ OR AN UNHEADERED ROM WITH THE MAGIC DESTINY 0.99 PATCH - CRC32: 96064895
 
 				   ///////CHANGELOG\\\\\\\
 
+                                            v2.3
+-Changed the sign outside Tessie/Nina's Bar to reflect the change in name from Nene. (Tessie in DQ, Nina in DW)
+-DW: Found and fixed a spacing issue with the pop-up menu when standing over a stair tile in the dungeon. (The cursor would overlap "Stairs" when selecting to "Save") 
+
                                             v2.2
 -Various dungeon message polish.
+
                                             v2.1
 -Removed unnecessary pause after dungeon messages (Don't know why I thought this was a good idea...)
 
