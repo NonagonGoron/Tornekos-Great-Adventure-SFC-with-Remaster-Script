@@ -33,7 +33,10 @@ OR AN UNHEADERED ROM WITH THE MAGIC DESTINY 0.99 PATCH - CRC32: 96064895
 
 
 
-				   ///////CHANGELOG\\\\\\\
+				                  ///////CHANGELOG\\\\\\\
+
+                                            v2.4
+-Created and added a QoL hack to prevent inventory loss after collecting the Chest of Cheer (Joy Chest) and resetting after the Credits.
 
                                             v2.3
 -Changed the sign outside Tessie/Nina's Bar to reflect the change in name from Nene. (Tessie in DQ, Nina in DW)
